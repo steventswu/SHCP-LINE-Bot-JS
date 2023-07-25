@@ -1,4 +1,8 @@
 {
+  "name": "line-bot",
+  "version": "1.0.0",
+  "description": "LINE BOT using Google App Engine",
+  "main": "app.js",
   "scripts": {
     "start": "node ./app.js"
   },
