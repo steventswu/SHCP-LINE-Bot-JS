@@ -63,4 +63,4 @@ const getProfile = async (userId) => {
   }
 };
 
-module.exports = { client, handleEvent, getReplyText, getProfile };
+module.exports = { config, handleEvent, getReplyText, getProfile };
